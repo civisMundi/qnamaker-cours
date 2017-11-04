@@ -1,0 +1,26 @@
+{
+  "name": "qnamaker",
+  "version": "1.0.0",
+  "description": "cours qna bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dydyFos/qnamaker-cours.git"
+  },
+  "keywords": [
+    "bot",
+    "qna"
+  ],
+  "author": "dydyFos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dydyFos/qnamaker-cours/issues"
+  },
+  "homepage": "https://github.com/dydyFos/qnamaker-cours#readme",
+  "dependencies": {
+    "botbuilder": "^3.11.0"
+  }
+}
