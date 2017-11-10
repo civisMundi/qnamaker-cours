@@ -22,11 +22,15 @@
   },
   "homepage": "https://github.com/dydyFos/qnamaker-cours#readme",
   "dependencies": {
+    "api-ai-recognizer": "^1.1.1",
     "botbuilder": "^3.11.0",
     "botbuilder-cognitiveservices": "^1.1.0",
+    "eslint": "^4.10.0",
     "restify": "^6.3.1"
   },
   "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0",
     "nodemon": "^1.12.1"
   }
 }
