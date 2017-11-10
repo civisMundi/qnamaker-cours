@@ -1,6 +1,3 @@
 module.exports = {
-    "extends": "airbnb-base",
-    rules: {
-        indentSize: 4
-    }
+    "extends": "airbnb-base"
 };
